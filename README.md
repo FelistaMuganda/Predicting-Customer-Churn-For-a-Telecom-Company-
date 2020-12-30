@@ -2,8 +2,8 @@
 Business Objectives:
 
 1. Identify customers likely to churn in order to guide retention strategy
-2. Avoid unnecessary spend on loyal customers falsely predicted as churn and thus optimize resources 
-    directed for retention.
+2. Minimise false churn predictions to avoid unnecessary spend on loyal customers and thus optimize resources 
+   directed for retention.
 
 Models Evaluated: 
 
