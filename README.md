@@ -1,4 +1,4 @@
-# Predicting-Customer-Churn-For-a-Telecom-Company-
+# Predicting-Customer-Churn-For-a-Telecom-Company
 Business Objectives:
 
 1. Identify customers likely to churn in order to guide retention strategy
@@ -7,4 +7,12 @@ Business Objectives:
 
 Models Evaluated: 
 
-Logistic Regression (Unpenalized, Lasso, Ridge), Support Vector Machine, KNN, Gradient Boosting, Random Forest Implemented 
+1. Logistic Regression (Unpenalized)
+2. Ridge (Logistic regression with 'l2' penalty)
+3. RidgeClassifier 
+4. Lasso  (Logistic regression with 'l1' penalty)
+5. Random Forest
+6. Support Vector Machine
+7. MLP Classifier
+8. K_Nearest_Neighbor
+9. Gradient Boosting Classifier
